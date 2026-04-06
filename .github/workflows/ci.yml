@@ -53,4 +53,4 @@ jobs:
 
       - name: "Finalización Exitosa"
         run: echo "🚀 Imagen subida a Docker Hub ${{ secrets.DOCKERHUB_USERNAME }}/backend:latest"
-        #listo
+        #ready
